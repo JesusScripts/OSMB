@@ -1,4 +1,4 @@
-[DOWNLOAD JAR ](https://github.com/anthonyselias/OSMB/releases/download/OSMB/JesusRCBeginner.jar)
+[DOWNLOAD JAR ](https://github.com/JesusScripts/OSMB/releases/download/OSMB/JesusRCBeginner.jar)
 
 🌀 OSRS Runecrafting Setup Guide
 
