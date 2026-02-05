@@ -10,6 +10,7 @@ This guide walks you through the required setup to ensure the script runs smooth
 [x] - 1,000 coins
 [x] - Ring of the Elements
 [x] - Access to Player-Owned House
+[x] - Wear AIR Tiara
 
 ⚙️ Setup Instructions
 
