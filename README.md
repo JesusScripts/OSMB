@@ -1,5 +1,5 @@
 [DOWNLOAD JAR ](https://github.com/JesusScripts/OSMB/releases/download/OSMB/JesusRCBeginner.jar)
-
+[SOURCE](https://github.com/JesusScripts/OSMB/releases/download/OSMB/JesusRCBeginnerBETA.java)
 🌀 OSRS Runecrafting Setup Guide
 
 This guide walks you through the required setup to ensure the script runs smoothly and efficiently. Follow each step carefully before starting.
